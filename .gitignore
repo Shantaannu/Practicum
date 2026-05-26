@@ -1,0 +1,41 @@
+Data/
+*.csv
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore virtual environment directories
+venv/
+# Ignore log files
+*.log
+# Ignore model checkpoints
+checkpoints/
+# Ignore any other files or directories you don't want to track
+# For example:
+# Ignore temporary files
+*.tmp
+# Ignore system files
+.DS_Store
+# Ignore IDE specific files
+.idea/
+.vscode/
+# Ignore any other files or directories you don't want to track
+# For example:
+# Ignore backup files
+*.bak
+# Ignore compiled files
+*.o
+*.so
+# Ignore any other files or directories you don't want to track
+# For example:
+# Ignore coverage reports
+coverage/
+# Ignore any other files or directories you don't want to track
+# For example:
+# Ignore test results
+test_results/
+# Ignore any other files or directories you don't want to track
+# For example:
+# Ignore temporary files created by editors
+*~
