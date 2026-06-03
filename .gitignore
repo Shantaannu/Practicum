@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+node_modules
+=======
+>>>>>>> 98a0f56b776b8d4c5d3cc2a4838d34e8ec0de6ee
 Data/
 *.csv
 # Ignore Python bytecode files
@@ -38,4 +44,9 @@ test_results/
 # Ignore any other files or directories you don't want to track
 # For example:
 # Ignore temporary files created by editors
+<<<<<<< HEAD
 *~
+=======
+*~
+>>>>>>> e78313459dbd8474b92a5e35806069492ef59786
+>>>>>>> 98a0f56b776b8d4c5d3cc2a4838d34e8ec0de6ee
